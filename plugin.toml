@@ -1,0 +1,4 @@
+[plugin]
+description = "Copy CRON file content to /etc/cron.d/$APP"
+version = "0.1.0"
+[plugin.config]
